@@ -15,12 +15,16 @@ I have too much architect friends, all of them whenever to want to find an idea 
    
    and must download the [chromedriver](https://chromedriver.chromium.org/) compatible with your chrome or [firefox driver](https://developer.mozilla.org/en-US/docs/Web/WebDriver) if you use firefox.
    
+   **the path you must set the driver there is :** 
+    /home/user/Desktop/ArchdailyProjectDownloader/driver/chromedriver
+   
 ## Project detail
-every project in Arcdaily has the project id and you can find this from here 
+
+Every project in Arcdaily has the project id and you can find this from here 
 
 ![](https://github.com/BahramJannesar/ArchdailyProjectDownloader/blob/master/image/id.png)
 
-project deatails are download in .JSON file like this 
+Project deatails are download in .JSON file like this 
 
       {
     "Project ID": "939894",
