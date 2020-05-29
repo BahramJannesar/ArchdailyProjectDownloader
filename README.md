@@ -23,31 +23,31 @@ every project in Arcdaily has the project id and you can find this from here
 project deatails are download in .JSON file like this 
 
       {
-    "Project ID": "939672",
-    "Project Titel": "Emergency Public Hospital in São Bernardo do Campo",
-    "Project Type": "HOSPITAL",
-    "City": "SÃO BERNARDO DO CAMPO",
-    "Country": "BRAZIL",
-    "Architects": "ARQLAB, SPBR Arquitetos, [sic] arquitetura",
-    "Area": "234998 ft²",
-    "Year": "2016",
-    "Photographs": "Nelson Kon",
-    "Project URL": "https://www.archdaily.com/939672",
+    "Project ID": "939894",
+    "Project Titel": "Zuidplein Theatre",
+    "Project Type": "THEATER",
+    "City": "ROTTERDAM",
+    "Country": "THE NETHERLANDS",
+    "Architects": "De Zwarte Hond",
+    "Area": "12500 m²",
+    "Year": "2020",
+    "Photographs": "Scagliola Brakkee",
+    "Project URL": "https://www.archdaily.com/939894",
     "Text Content": [
-        "Text description provided by the architects. The industrial city of São Bernardo do Campo, in the metropolitan area of Sao Paulo, played a remarkable role in the recent democracy in Brazil. It was there where the former president Lula arose as a syndicalist to found the workers party, PT, in 1980. Under the second consecutive government of the mayor Luiz Marinho, the Board of Health nowadays is led by Odete Carmem Gialdi — who succeeded Arthur Chioro, currently incumbent of the Ministry of Health in Brasilia — whose headship focuses on strategies to assure assistance of quality for all.",
+        "Text description provided by the architects. Zuidplein Theatre forms part of Hart van Zuid, a region-wide public-private partnership development focused around the Zuidplein and the Ahoy events complex. In cooperation with the city of Rotterdam, Ballast Nedam and Heijmans are constructing projects here such as the Rotterdam Ahoy Convention Centre, Zwemcentrum Rotterdam (swimming pool), an extension of the Zuidplein shopping centre, a new bus station, hotel, housing, and hospitality venues. The outdoor (public) spaces will also be completely redesigned. Following on from Zwemcentrum Rotterdam, Zuidplein Theatre is the second project completed in Hart van Zuid.",
+   
+        "Community role. Zuidplein Theatre replaces the adjacent former theatre which was built in 1953. When the new theatre is operational, the old building will be demolished in a circular way. This central location in the centre of Hart van Zuid, beside the bus and metro stations, easily attracts passersby to take a peek inside, making art and culture accessible to a wider audience.",
        
-        "Besides, Alfredo Buso, architect ahead of the Department of Urban Planning, has imprinted important improvement in the urban scale highlighting mobility and flood control. In addition he has been dedicate to emphasize the role of architecture in the process of improving urban quality by both preserving heritage as a school designed by Paulo Mendes da Rocha in the sixties or creating possibilities for new projects such as the Work and Workers Museum by Marcelo Ferraz and Francisco Fanucci.",
+        "The library welcomes everyone from the community, offering a wide range of activities from languages to digital skills. Locals can meet here, learn, study, share experiences, and hold discussions. Young people are especially welcome. The theatre’s diverse programming often reflects what’s happening in the community, city, and region. Together with the café/restaurant, which is open every day, the complex plays an important role in the social fabric of Rotterdam-Zuid.",
+        
+        "Aluminium voile. Zuidplein Theatre has a clear, compact volume of approximately 12.500 m2. Due to noise considerations, the two auditoriums are positioned on the metro side, furthest away from the residential areas. Here, the building appears enclosed and intimate with a sturdy masonry facade accented by distinctive vertical niches. By contrast, a semi-transparent anodised aluminium veil drapes delicately over the entrance. The entrance area hosts the main public functions such as the library reading tables and the café/restaurant. By day, the semi-open facade creates a beautiful play of light inside, and by night, the facade illuminates from within to highlight the inviting entrance.",
        
-        "The Emergency Public Hospital, directed by Renata Martello, is part of the municipal hospital complex and health facilities buildings managed by the ABC Foundation. This hospital works as an entrance to the complex, called as door hospital, it is the first destination for ambulances assisting accidents and emergency calls. Its activities combines pediatric and adult hospitals which share some support but work as two independent buildings. Considered as an emergency hospital it is guided by new concepts about management of diseases classification through a triage process and patient flows using the fast track principle.",
-      
-        "The building occupies 17.500 m², a whole very long and narrow block. Joaquim Nabuco Street was taken as its public main façade, while Cacilda da Cruz Ferreira works as an internal street for ambulance, staff and service access. The building was divided in two long volumes overlapped:",
+        "The high lobby forms the heart of the building. Every function is directly or indirectly connected with this space, where there is always something for people to do and discover. As a ‘living room’ for Rotterdam-Zuid, the lobby has an extra stage that hosts popular activities such as children’s performances and other community-focused initiatives, bands and DJs and exhibitions.",
        
-        "At the bottom, as a three storey high podium measuring 185m and about 35m wide, the lower part of the building has receptions and first care at the ground level, surgery at the first level and, finally, mechanical and support at the second level [usually displayed at the basement, these functions were displaced up due to the very shallow water table and safety level concerning to the history of flood in that neighborhood].",
-      
-        "On the top of this podium, as a pilotis or an open space, the administration office and educational program were displayed featured as a resting outside area.",
+        "Designed by De Zwarte Hond in collaboration with BURO M2R, the interior fits seamlessly with the architecture. The transparency and curved form of the aluminium voile is reflected in various interior elements. The flexible and mobile bespoke furniture designed by BURO M2R enables spaces to be configured in different ways. Steel furniture and paneling lend the interior a bold look, while, at the same time, red upholstery and floors add the distinctive warmth of a theatre.",
+        
+        "Innovative theatre hall. The 600-seat main auditorium has two distinctive features. The Rotterdam-based architecture practice Studio RAP designed an acoustic wall that seemingly embraces the audience and performing artists in one fluid gesture. The design is crafted from 6000 different triangular aluminium composite panels – an unexpected choice of material for a theatre. Algorithms calculated the positioning of the triangular panels to create excellent acoustics in the theatre without the need for soundproofing materials.",
        
-        "The upper volume, as a three storeys bar measuring 115m long and 15m wide, hosts 159 hospital beds for both pediatric and adult hospitalization.",
-       
-        "The extensiveness of this facility building, added to a not clearly defined public space in its surrounding, have offered us the possibility to propose a new design for both Cacilda da Cruz Ferreira and Joaquim Nabuco Street. In the public side at Joaquim Nabuco the building was gifted with a square shaded by trees carefully designed as a landscape, which offer a nice transition between outside and inside."
+        "What’s also unique is how the auditorium adapts to standing concerts. Conventionally, a sliding tribune – which often has less comfortable seating – would be removed to make space for a standing event. At Zuidplein Theatre, the stage – whose surface area exceeds the hall – can easily be converted into a multipurpose space that fits a maximum of 1000 standing or dancing visitors. This means more comfortable fixed seating can be installed in the auditorium. The ground floor and balcony can be separated from the space using a moveable wall."
     ]
-     }
+        }
