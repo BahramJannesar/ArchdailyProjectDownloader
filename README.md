@@ -1,13 +1,13 @@
-## Archdaily
+# Archdaily
 
 [ArchDaily](https://www.archdaily.com/) is a weblog covering architectural news, projects,products, events, interviews and competitions, opinion pieces, among others, catering to architects, designers and other interested parties.
 
 ![](https://github.com/BahramJannesar/ArchdailyProjectDownloader/blob/master/image/logo.jpg)
 
-### Idea 
+## Idea 
 I have too much architect friends, all of them whenever to want to find an idea about their project, first of all, check the Arcdaily website and tell me how can I download information and pictures of these projects, because of this I try to write this project for them but, I can't turn this project to usable product for architects. everyone do this job, It has been a great help to the community of architects.
 
-### Dependencies
+## Dependencies
 
     pip install selenium
     pip install bs4
@@ -15,7 +15,7 @@ I have too much architect friends, all of them whenever to want to find an idea 
    
    and must download the [chromedriver](https://chromedriver.chromium.org/) compatible with your chrome or [firefox driver](https://developer.mozilla.org/en-US/docs/Web/WebDriver) if you use firefox.
    
-### Project detail
+## Project detail
 every project in Arcdaily has the project id and you can find this from here 
 
 ![](https://github.com/BahramJannesar/ArchdailyProjectDownloader/blob/master/image/id.png)
