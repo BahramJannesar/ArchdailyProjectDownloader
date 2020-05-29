@@ -55,3 +55,5 @@ Project deatails are download in .JSON file like this
         "What’s also unique is how the auditorium adapts to standing concerts. Conventionally, a sliding tribune – which often has less comfortable seating – would be removed to make space for a standing event. At Zuidplein Theatre, the stage – whose surface area exceeds the hall – can easily be converted into a multipurpose space that fits a maximum of 1000 standing or dancing visitors. This means more comfortable fixed seating can be installed in the auditorium. The ground floor and balcony can be separated from the space using a moveable wall."
     ]
         }
+
+and the project pictures are download in this directory.
