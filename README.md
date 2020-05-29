@@ -57,3 +57,7 @@ Project deatails are download in .JSON file like this
         }
 
 and the project pictures are download in this directory.
+
+## Licence
+
+[MIT Licence](https://github.com/BahramJannesar/ArchdailyProjectDownloader/blob/master/LICENSE) 
