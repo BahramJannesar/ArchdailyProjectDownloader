@@ -5,7 +5,7 @@
 ![](https://github.com/BahramJannesar/ArchdailyProjectDownloader/blob/master/image/logo.jpg)
 
 ## Idea 
-I have too much architect friends, all of them whenever to want to find an idea about their project, first of all, check the Arcdaily website and tell me how can I download information and pictures of these projects, because of this I try to write this project for them but, I can't turn this project to usable product for architects. everyone does this job, It will be a great help to the community of architects .
+I have too much architect friends, all of them whenever to want to find an idea about their project, first of all, check the Arcdaily website and tell me how can I download information and pictures of these projects, because of this I try to write this project for them but, I can't turn this project to usable product for architects. everyone does this job, It will be a great help to the community of architects.
 
 ## Dependencies
 
