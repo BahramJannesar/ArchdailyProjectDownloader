@@ -88,7 +88,6 @@ def project_image_downloader(driver ,project_link):
     for url in urls:
         if 'large_jpg' in str(url):
             large_urls.append(url)
-
     i = 1
     for each in large_urls:
         with open('{}.jpg'.format(i), 'wb') as handle:
